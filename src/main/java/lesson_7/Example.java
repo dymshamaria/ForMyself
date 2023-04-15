@@ -1,4 +1,4 @@
-package lesson_7.bytes;
+package lesson_7;
 
 import java.io.*;
 import java.lang.reflect.Array;
